@@ -1,4 +1,3 @@
-game     ?= default
 platform ?= epic
 target   ?= RocketLeague.exe
 
