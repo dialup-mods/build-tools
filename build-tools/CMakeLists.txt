@@ -16,7 +16,6 @@ install(
         ${CMAKE_CURRENT_SOURCE_DIR}/cmake/PreProject.cmake
         ${CMAKE_CURRENT_SOURCE_DIR}/cmake/Tidy.cmake
         ${CMAKE_CURRENT_SOURCE_DIR}/make/common.mk
-        ${CMAKE_CURRENT_SOURCE_DIR}/make/shell.mk
         ${CMAKE_CURRENT_SOURCE_DIR}/make/rocketleague.mk
         ${CMAKE_CURRENT_SOURCE_DIR}/shell-exception.txt
         ${CMAKE_CURRENT_SOURCE_DIR}/../scripts/prepend-banner.sh
